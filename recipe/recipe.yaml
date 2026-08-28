@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.4.0"
 
 package:
   name: rloop
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rloop/rloop-${{ version }}.tar.gz
-  sha256: 4232b9ba782508ac010c35210c748db02a55bdd1a4e0b718a692edd47b362a21
+  sha256: 21592e2af994b35d50e83a06e4df39fbe0ae2c2d3f4bfbee63945f5847e3f80e
 
 build:
   number: 0
